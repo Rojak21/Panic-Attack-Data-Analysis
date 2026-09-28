@@ -17,7 +17,7 @@ Created DAX measures for analytical calculations.
 Added slicers and interactive visualizations to enable data exploration.
 
 <h2>Screenshots</h2>
-<img src="" href=""/>
-<img src="" href=""/>
-<img src="" href=""/>
-<img src="" href=""/>
+<img src="https://github.com/Rojak21/Panic-Attack-Data-Analysis/blob/main/ScreenShots/page%201.png" href="page1"/>
+<img src="https://github.com/Rojak21/Panic-Attack-Data-Analysis/blob/main/ScreenShots/page%202.png" href="page2"/>
+<img src="https://github.com/Rojak21/Panic-Attack-Data-Analysis/blob/main/ScreenShots/page%203.png" href="page3"/>
+<img src="https://github.com/Rojak21/Panic-Attack-Data-Analysis/blob/main/ScreenShots/page%204.png" href="page4"/>
