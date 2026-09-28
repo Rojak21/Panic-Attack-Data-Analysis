@@ -15,3 +15,9 @@ Panic attack patterns and patient characteristics
 Age-group analysis using sleep hours, panic scores, and attack frequency
 Created DAX measures for analytical calculations.
 Added slicers and interactive visualizations to enable data exploration.
+
+<h2>Screenshots</h2>
+<img src="" href=""/>
+<img src="" href=""/>
+<img src="" href=""/>
+<img src="" href=""/>
